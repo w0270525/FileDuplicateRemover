@@ -57,9 +57,6 @@ namespace fileduplicateremover
 
         }
 
-        private static void addListItem(string i)
-        {
-            throw new NotImplementedException();
-        }
+
     }
 }
